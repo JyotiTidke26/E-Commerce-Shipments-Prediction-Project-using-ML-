@@ -1,0 +1,15 @@
+artifact_uri: file:///Users/root/E-Commerce_Prediction_Project/mlruns/271576000132384097/1588a113e5b34ecaa71ceba1bece2dfa/artifacts
+end_time: 1749569559017
+entry_point_name: ''
+experiment_id: '271576000132384097'
+lifecycle_stage: active
+run_id: 1588a113e5b34ecaa71ceba1bece2dfa
+run_name: Logistic Regression
+run_uuid: 1588a113e5b34ecaa71ceba1bece2dfa
+source_name: ''
+source_type: 4
+source_version: ''
+start_time: 1749569556191
+status: 3
+tags: []
+user_id: jyotitidke

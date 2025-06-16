@@ -1,0 +1,15 @@
+artifact_uri: file:///Users/root/E-Commerce_Prediction_Project/mlruns/271576000132384097/7d0d9d04111949f68db06e0de408f22f/artifacts
+end_time: 1750102945997
+entry_point_name: ''
+experiment_id: '271576000132384097'
+lifecycle_stage: active
+run_id: 7d0d9d04111949f68db06e0de408f22f
+run_name: LightGBM
+run_uuid: 7d0d9d04111949f68db06e0de408f22f
+source_name: ''
+source_type: 4
+source_version: ''
+start_time: 1750102943942
+status: 3
+tags: []
+user_id: jyotitidke

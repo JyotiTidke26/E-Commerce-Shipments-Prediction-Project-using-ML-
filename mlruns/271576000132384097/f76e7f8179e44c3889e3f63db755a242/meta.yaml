@@ -1,0 +1,15 @@
+artifact_uri: file:///Users/root/E-Commerce_Prediction_Project/mlruns/271576000132384097/f76e7f8179e44c3889e3f63db755a242/artifacts
+end_time: 1750102942194
+entry_point_name: ''
+experiment_id: '271576000132384097'
+lifecycle_stage: active
+run_id: f76e7f8179e44c3889e3f63db755a242
+run_name: Random Forest
+run_uuid: f76e7f8179e44c3889e3f63db755a242
+source_name: ''
+source_type: 4
+source_version: ''
+start_time: 1750102940318
+status: 3
+tags: []
+user_id: jyotitidke

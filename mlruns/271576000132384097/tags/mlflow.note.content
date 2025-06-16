@@ -1,0 +1,3 @@
+This project focuses on predicting whether product deliveries for an international electronics retailer will arrive **on time or be delayed**, using historical order data. The solution leverages machine learning algorithms such as **Logistic Regression, Random Forest, XGBoost, and LightGBM** for classification.
+
+The entire workflow is tracked using **MLflow** for experiment management, and the final model is deployed through a **Streamlit dashboard** to provide an interactive interface for business users and logistics planners.

@@ -1,0 +1,15 @@
+artifact_uri: file:///Users/root/E-Commerce_Prediction_Project/mlruns/271576000132384097/a58204be514c4ae686a3a7b2ae77d763/artifacts
+end_time: 1749569562895
+entry_point_name: ''
+experiment_id: '271576000132384097'
+lifecycle_stage: active
+run_id: a58204be514c4ae686a3a7b2ae77d763
+run_name: XGBoost
+run_uuid: a58204be514c4ae686a3a7b2ae77d763
+source_name: ''
+source_type: 4
+source_version: ''
+start_time: 1749569561035
+status: 3
+tags: []
+user_id: jyotitidke
