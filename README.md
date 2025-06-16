@@ -66,7 +66,10 @@ The entire workflow is tracked using **MLflow** for experiment management, and t
 - Built an interactive app with:
   - Input form for predictions
   - Results and model confidence
+  - Streamlit Web App: A user-friendly Streamlit app has been deployed to interactively explore the model and make shipment predictions.
 
+You can access the live app here:
+https://wpa6ubwgqccj3aguc22rvr.streamlit.app/
 ---
 
 ##  Model Evaluation Summary
@@ -132,16 +135,6 @@ pip install -r requirements.txt
 # Run the app
 streamlit run app.py
 ```
-
----
-
-##  Deploy on Streamlit Cloud
-
-1. Push this project to a GitHub repo
-2. Go to https://wpa6ubwgqccj3aguc22rvr.streamlit.app/
-3. Click "New App" → Connect to your GitHub repo
-4. Set `app.py` as the main file
-5. Click **Deploy**
 
 ---
 
