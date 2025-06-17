@@ -1,4 +1,4 @@
-# Project: Predicting On-Time Delivery for E-Commerce Shipments Using Machine Learning
+# Project: E-Commerce Shipments Delivery Prediction
 
 This project focuses on predicting whether product deliveries for an international electronics retailer will arrive **on time or be delayed**, using historical order data. The solution leverages machine learning algorithms such as **Logistic Regression, Random Forest, XGBoost, and LightGBM** for classification.
 

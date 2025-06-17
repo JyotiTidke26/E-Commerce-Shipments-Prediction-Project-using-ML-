@@ -21,8 +21,8 @@ categorical_features = train_columns[5:]  # last 4 are categorical dummies
 
 # Streamlit UI
 st.set_page_config(page_title="E-Commerce Delivery Prediction", layout="centered")
-st.title("🚚 E-Commerce Delivery Delay Prediction ")
-st.markdown("Enter shipment and product details to predict if delivery will be delayed or not.")
+st.title("🚚 E-Commerce Shipments Delivery Prediction ")
+st.markdown("Enter shipment and product details to predict if delivery will be on time or not.")
 
 # Inputs
 customer_rating = st.slider("Customer Rating (1-5)", 1, 5, 3)
@@ -79,7 +79,7 @@ st.markdown("### Your Inputs")
 st.write(input_data)
 
 # On button click, predict
-if st.button("Predict Delivery Delay"):
+if st.button("Predict Delivery Status"):
     with st.spinner("Predicting..."):
         prediction, probability = predict_delay(scaled_input)
     if prediction == 1:
