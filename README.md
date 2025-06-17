@@ -68,8 +68,7 @@ The entire workflow is tracked using **MLflow** for experiment management, and t
   - Results and model confidence
   - Streamlit Web App: A user-friendly Streamlit app has been deployed to interactively explore the model and make shipment predictions.
 
-You can access the live app here:
-https://wpa6ubwgqccj3aguc22rvr.streamlit.app/
+### You can access the live app here: https://wpa6ubwgqccj3aguc22rvr.streamlit.app/
 ---
 
 ##  Model Evaluation Summary
